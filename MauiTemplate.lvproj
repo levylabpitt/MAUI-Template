@@ -13,9 +13,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="FrontPanelPlayground.vi" Type="VI" URL="../../../FrontPanelPlayground.vi"/>
 		<Item Name="MauiTemplate.lvclass" Type="LVClass" URL="../MauiTemplate.lvclass"/>
-		<Item Name="Mock1.lvclass" Type="LVClass" URL="../Subpanels/Mock1/Mock1.lvclass"/>
-		<Item Name="Mock2.lvclass" Type="LVClass" URL="../Subpanels/Mock2/Mock2.lvclass"/>
-		<Item Name="Mock3.lvclass" Type="LVClass" URL="../Subpanels/Mock3/Mock3.lvclass"/>
+		<Item Name="Panel 1.lvclass" Type="LVClass" URL="../Subpanels/Panel 1/Panel 1.lvclass"/>
+		<Item Name="Panel 2.lvclass" Type="LVClass" URL="../Subpanels/Panel 2/Panel 2.lvclass"/>
+		<Item Name="Panel 3.lvclass" Type="LVClass" URL="../Subpanels/Panel 3/Panel 3.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
