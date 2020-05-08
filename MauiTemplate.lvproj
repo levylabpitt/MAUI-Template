@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -13,14 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="FrontPanelPlayground.vi" Type="VI" URL="../../../FrontPanelPlayground.vi"/>
 		<Item Name="MauiTemplate.lvclass" Type="LVClass" URL="../MauiTemplate.lvclass"/>
-		<Item Name="Panel 1.lvclass" Type="LVClass" URL="../Subpanels/Panel 1/Panel 1.lvclass"/>
-		<Item Name="Panel 2.lvclass" Type="LVClass" URL="../Subpanels/Panel 2/Panel 2.lvclass"/>
-		<Item Name="Panel 3.lvclass" Type="LVClass" URL="../Subpanels/Panel 3/Panel 3.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
-				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
-			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
 				<Item Name="ArrayToCluster.vi" Type="VI" URL="/&lt;vilib&gt;/JKI/JKI SMO/Utilities/ArrayToCluster.vi"/>
