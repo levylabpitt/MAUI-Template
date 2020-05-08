@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-07 13:19:34" Modified_Date="2020-05-07 13:39:50" Creator="Joseph Albro" Comments="" ID="b1780c0da3083db0e00d7319ad6aeabc">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-07 13:19:34" Modified_Date="2020-05-08 14:54:25" Creator="Joseph Albro" Comments="" ID="d5eab9d58f890ce46806491ba1c2b37a">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_MAUI_Template</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
-    <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>.</Library_Output_Folder>
+    <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
+    <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
     <Company_Name>Levylab</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Initial Build</Release_Notes>
+      <Release_Notes>Changed repository on  disk. Rebuilding package to reflect these changes.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -207,7 +207,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>MauiTemplate.TestLauncher.vi</Path>
+        <Path>..\lvsrc\MauiTemplate.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -221,10 +221,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Process.vi</Path>
+        <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EDE108BF0C4E19085945331C648FAF3</GUID>
+      <GUID>F0A61F43C6FC9BFB168F6AC3B2D2BBDC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
