@@ -15,3 +15,7 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Folders
+/builds/Packages/
+/lvsrc/Subpanels/
