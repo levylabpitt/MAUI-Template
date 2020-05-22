@@ -59,13 +59,7 @@
 				<Item Name="Build State String with Arguments__JKI_lib_State_Machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Build State String with Arguments__JKI_lib_State_Machine.vi"/>
 				<Item Name="SMO.UI.MAUI.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Levylab/SMO.UI.MAUI/SMO.UI.MAUI.lvclass"/>
 				<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Levylab/SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
-<<<<<<< HEAD
-<<<<<<< HEAD
 				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
-=======
->>>>>>> parent of bc42dd8... Added Functionality to Open Subpanel. Ie Pop a subpanel
-=======
->>>>>>> parent of bc42dd8... Added Functionality to Open Subpanel. Ie Pop a subpanel
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
