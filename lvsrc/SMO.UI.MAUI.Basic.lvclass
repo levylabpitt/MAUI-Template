@@ -30,10 +30,6 @@
 	<Item Name="SMO.UI.MAUI.Basic.ctl" Type="Class Private Data" URL="SMO.UI.MAUI.Basic.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Configuration" Type="Folder">
-		<Item Name="subpanels.json" Type="Document" URL="../Resource/subpanels.json"/>
-		<Item Name="Default.json" Type="Document" URL="../Resource/Default.json"/>
-	</Item>
 	<Item Name="Process.vi" Type="VI" URL="../Process.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!&lt;'6..4SZ633Z.166*,E*B=WFD,GRW9WRB=X-!%%VB&gt;7F5:7VQ&lt;'&amp;U:3"P&gt;81!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!S1(!!(A!!'RF445]O65EO45&amp;633Z#98.J9SZM&gt;G.M98.T!!R.986J6'6N='RB&gt;'5!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!C1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
